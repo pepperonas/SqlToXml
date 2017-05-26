@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SqlToXml">
+    <output-path>$PROJECT_DIR$/out/artifacts/SqlToXml</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="io.celox.Main" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="linuxIcon" value="$PROJECT_DIR$/imgs/web_hi_res_512 (PNG)/256x256.png" />
+            <option name="macIcon" value="$PROJECT_DIR$/imgs/web_hi_res_512.icns" />
+            <option name="windowsIcon" value="$PROJECT_DIR$/imgs/web_hi_res_512 (PNG)/256x256.png" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="SqlToXml" />
+        <option name="vendor" value="celox" />
+        <option name="version" value="" />
+        <option name="width" value="500" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="SqlToXml.jar">
+        <element id="module-output" name="SqlToXml" />
+      </element>
+    </root>
+  </artifact>
+</component>
